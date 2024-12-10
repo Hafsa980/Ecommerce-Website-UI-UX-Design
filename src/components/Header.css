@@ -1,0 +1,32 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background: #fff;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .logo a {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .menu a {
+    margin: 0 10px;
+    font-size: 16px;
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .menu a:hover {
+    color: #d32f2f;
+  }
+  
+  .account-section {
+    display: flex;
+    align-items: center;
+  }
+  
